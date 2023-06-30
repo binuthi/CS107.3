@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp4
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+                public class MyClass
+                {
+                    private void sayHello()
+                    {
+                        Console.WriteLine("Hello, world!");
+                    }
+                }
+         }
+    }
+}
+
