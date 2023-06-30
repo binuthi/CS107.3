@@ -1,0 +1,8 @@
+C:\Users\94711\Desktop\C# Lab 01\Q03\Q03\bin\Debug\Q03.exe.config
+C:\Users\94711\Desktop\C# Lab 01\Q03\Q03\bin\Debug\Q03.exe
+C:\Users\94711\Desktop\C# Lab 01\Q03\Q03\bin\Debug\Q03.pdb
+C:\Users\94711\Desktop\C# Lab 01\Q03\Q03\obj\Debug\Q03.csproj.AssemblyReference.cache
+C:\Users\94711\Desktop\C# Lab 01\Q03\Q03\obj\Debug\Q03.csproj.SuggestedBindingRedirects.cache
+C:\Users\94711\Desktop\C# Lab 01\Q03\Q03\obj\Debug\Q03.csproj.CoreCompileInputs.cache
+C:\Users\94711\Desktop\C# Lab 01\Q03\Q03\obj\Debug\Q03.exe
+C:\Users\94711\Desktop\C# Lab 01\Q03\Q03\obj\Debug\Q03.pdb
