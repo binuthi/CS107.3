@@ -1,0 +1,8 @@
+C:\Users\94711\Desktop\web Lab07-2023.06.23\Q06\Q06\bin\Debug\Q06.exe.config
+C:\Users\94711\Desktop\web Lab07-2023.06.23\Q06\Q06\bin\Debug\Q06.exe
+C:\Users\94711\Desktop\web Lab07-2023.06.23\Q06\Q06\bin\Debug\Q06.pdb
+C:\Users\94711\Desktop\web Lab07-2023.06.23\Q06\Q06\obj\Debug\Q06.csproj.AssemblyReference.cache
+C:\Users\94711\Desktop\web Lab07-2023.06.23\Q06\Q06\obj\Debug\Q06.csproj.SuggestedBindingRedirects.cache
+C:\Users\94711\Desktop\web Lab07-2023.06.23\Q06\Q06\obj\Debug\Q06.csproj.CoreCompileInputs.cache
+C:\Users\94711\Desktop\web Lab07-2023.06.23\Q06\Q06\obj\Debug\Q06.exe
+C:\Users\94711\Desktop\web Lab07-2023.06.23\Q06\Q06\obj\Debug\Q06.pdb
