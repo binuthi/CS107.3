@@ -1,0 +1,8 @@
+C:\Users\94711\Desktop\C# Lab 06\Q07\Q07\bin\Debug\Q07.exe.config
+C:\Users\94711\Desktop\C# Lab 06\Q07\Q07\bin\Debug\Q07.exe
+C:\Users\94711\Desktop\C# Lab 06\Q07\Q07\bin\Debug\Q07.pdb
+C:\Users\94711\Desktop\C# Lab 06\Q07\Q07\obj\Debug\Q07.csproj.AssemblyReference.cache
+C:\Users\94711\Desktop\C# Lab 06\Q07\Q07\obj\Debug\Q07.csproj.SuggestedBindingRedirects.cache
+C:\Users\94711\Desktop\C# Lab 06\Q07\Q07\obj\Debug\Q07.csproj.CoreCompileInputs.cache
+C:\Users\94711\Desktop\C# Lab 06\Q07\Q07\obj\Debug\Q07.exe
+C:\Users\94711\Desktop\C# Lab 06\Q07\Q07\obj\Debug\Q07.pdb
